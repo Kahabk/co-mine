@@ -1,7 +1,7 @@
 # MindVault AI
 
 Private, local-first AI memory workspace for Android. This repository currently implements the production-ready foundation requested in Phase 1 and the initial capture slice of Phase 2.
-
+### Fest off all ugly ui i need to fix that 
 ## Run
 
 ```bash
