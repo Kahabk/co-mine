@@ -4,7 +4,7 @@ Private, local-first AI memory workspace for Android. This repository currently 
 ### Fest off all ugly ui i need to fix that 
 - becose i use pre difine things so i and copy past it so that not work out but it is grate idea
 - all so have mind grafing
-- 
+- neion ui 
 - it usge mermride 
 ## Run
 
