@@ -1,5 +1,5 @@
 # MindVault AI
-
+<img alt="Version" src="https://img.shields.io/badge/version-0.2.0-2f6fed" />
 Private, local-first AI memory workspace for Android. This repository currently implements the production-ready foundation requested in Phase 1 and the initial capture slice of Phase 2.
 ### Fest off all ugly ui i need to fix that 
 - becose i use pre difine things so i and copy past it so that not work out but it is grate idea
